@@ -1,6 +1,6 @@
 # Secure Small Office Network: Segmentation, DHCP Relay & ACL Hardening
 
-## 1.  Project Mission
+## 1.  Project Overview
   The objective of this project was to design and deploy a scalable and secure network for a small business using GNS3. The design prioritizes **Traffic Isolation** (VLANs), **Security** (ACLs & SSH), and **Centralized Management** (DHCP Server) to ensure a professional and resilient office operation.
 
 ---
